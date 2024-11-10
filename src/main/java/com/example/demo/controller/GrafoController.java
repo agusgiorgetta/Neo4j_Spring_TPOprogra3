@@ -1,10 +1,5 @@
 package com.example.demo.controller;
 
-
-import com.example.demo.domain.Grafo;
-import com.example.demo.repository.CarreraRepository;
-import com.example.demo.repository.FacultadRepository;
-import com.example.demo.repository.UniversidadRepository;
 import com.example.demo.service.GrafoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
